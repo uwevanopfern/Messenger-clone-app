@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "762760182050",
+    "firebase_url": "https://uwemessanger.firebaseio.com",
+    "project_id": "uwemessanger",
+    "storage_bucket": "uwemessanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762760182050:android:3db938ffec5e28b2",
+        "android_client_info": {
+          "package_name": "com.niipo.uwemessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762760182050-n38q6e45mpdhcejmiqr5446h2rpj322l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpzrp03XKk3jdtY-wQpFFAG1yc39xSIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
